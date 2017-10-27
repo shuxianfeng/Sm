@@ -24,8 +24,8 @@ public class TestFreetaxController {
     public Response getFreeTax(){
         Response response = new Response();
 
-        response.setMessage("测试呀");
         response.setCode(200);
+        response.setMessage("测试呀");
         response.setData("数据数据123");
 
         return response;
