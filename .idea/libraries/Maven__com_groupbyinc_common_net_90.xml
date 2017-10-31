@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.groupbyinc:common-net:90">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/groupbyinc/common-net/90/common-net-90.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/groupbyinc/common-net/90/common-net-90-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/groupbyinc/common-net/90/common-net-90-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

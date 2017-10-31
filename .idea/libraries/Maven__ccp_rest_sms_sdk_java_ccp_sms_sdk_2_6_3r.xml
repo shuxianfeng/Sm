@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ccp.rest.sms.sdk.java:ccp-sms-sdk:2.6.3r">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ccp/rest/sms/sdk/java/ccp-sms-sdk/2.6.3r/ccp-sms-sdk-2.6.3r.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ccp/rest/sms/sdk/java/ccp-sms-sdk/2.6.3r/ccp-sms-sdk-2.6.3r-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ccp/rest/sms/sdk/java/ccp-sms-sdk/2.6.3r/ccp-sms-sdk-2.6.3r-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
